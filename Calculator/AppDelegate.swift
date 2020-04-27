@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by InnoCric on 08/02/19.
+//  Created by Rani Singh on 08/02/19.
 //  Copyright © 2019 InnoCric. All rights reserved.
 //
 
